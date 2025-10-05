@@ -23,6 +23,12 @@ This repo is all about my Google Cybersecurity Certificate journey , a mix of la
 🧮 Portfolio Activity: Apply Filters to SQL Queries  
 
 This repo is about learning and growing step by step 🌱
-License: CC BY-NC 4.0 — All portfolio items are my original work (Google Cybersecurity Certificate, Coursera).
+
+### 🧠 License & Usage
+All portfolio activities in this repository are my **original work** completed as part of the *Google Cybersecurity Certificate (Coursera)*. These materials are shared for educational and demonstration purposes only.
+
+This repository is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+🔗 https://creativecommons.org/licenses/by-nc/4.0/
+
 
 
