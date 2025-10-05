@@ -18,6 +18,10 @@ This repo is all about my Google Cybersecurity Certificate journey , a mix of la
   💻 OS Hardening Techniques  
   📑 Incident Report (NIST Framework)  
 
+⚙️ 4. Tools and Trade: Linux and SQL
+🐧 Portfolio Activity: File Permissions in Linux
+🧮 Portfolio Activity: Apply Filters to SQL Queries  
+
 👩‍💻 About Me  
 I started as a frontend dev 💻 crafting designs & user-friendly experiences.  
 But curiosity about what’s really happening behind the screen pulled me into cybersecurity , how data travels, how attackers break things, and how we defend them 🛡️.  
